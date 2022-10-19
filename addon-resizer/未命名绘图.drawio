@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T08:29:01.573Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Sac5fE_pMWFlflYE7cO6" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-19T08:30:22.800Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="4rYqsEu5dsIUWUfgeV8d" version="20.2.8" type="github">
   <diagram id="KyNXKve2e39JugdcmYkd" name="第 1 页">
     <mxGraphModel dx="1426" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
         <mxCell id="hOTuv6wvGsGMhxcAr_AL-4" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hOTuv6wvGsGMhxcAr_AL-2" target="hOTuv6wvGsGMhxcAr_AL-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hOTuv6wvGsGMhxcAr_AL-2" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hOTuv6wvGsGMhxcAr_AL-2" value="机场" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hOTuv6wvGsGMhxcAr_AL-3" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;" vertex="1" parent="1">
@@ -61,6 +61,9 @@
           <mxGeometry width="30" height="30" relative="1" as="geometry">
             <mxPoint x="15" y="15" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hOTuv6wvGsGMhxcAr_AL-23" value="使用相同的V2ray-server 配置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="570" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
